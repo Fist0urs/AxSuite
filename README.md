@@ -4,7 +4,7 @@ AxSuite
 AxSuite is a toolset aimed to retrieve in-memory secrets saved by AxCrypt (http://www.axantum.com/axcrypt/)
 These secrets are sufficient enough to decrypt archives protected with AxCrypt, but you can also check
 my implementation of the algorithm within John The Ripper bleeding-jumbo (https://github.com/magnumripper/JohnTheRipper)
-and hashcat (https://github.com/hashcat/oclHashcat if you really need to retrieve the associated password.
+and hashcat (https://github.com/hashcat/hashcat) if you really need to retrieve the associated password.
 
 
 Author
